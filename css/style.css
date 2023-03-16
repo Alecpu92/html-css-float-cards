@@ -17,14 +17,24 @@ p{
     width: 300px;
     height: 100px;
     background-color: black;
-    margin-left: 100px;
+    margin-left: 0;
     margin: 100px;
 }
 .foto-staff{
     text-align: left;
-    width: 300px;
-    height: 100px;
-    object-fit: contain;
-    object-position: 0 0;
+    width: 100px;
+    height: 100px;;
+    float: left;
+    margin-right: auto;
 }
+.informazioni-team{
+    color: white;
+    padding-top: 20px;
+    text-align: right;
+}
+.email{
+    color: lightblue;
+}
+
+
 
